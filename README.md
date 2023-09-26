@@ -5,6 +5,9 @@ I'm [Victor](https://vepain.gitlab.io/),
 - 🧬 I like [graph algorithms](https://hal.inria.fr/hal-03815190), [integer linear programming, genome assembly](https://hal.inria.fr/hal-03684406) and FOSS! 
 - 🎹 [I also play the piano](https://www.youtube.com/@professeurchep) (improvising is really funny!) 
 
+I'm more present on [Gitlab](https://gitlab.com/vepain), although I have a github account.
+
+
 <!---
 vepain/vepain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
