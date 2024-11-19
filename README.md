@@ -7,7 +7,7 @@ I'm [Victor](https://vepain.gitlab.io/),
 
 The vast majority of my coding participations are on [Gitlab](https://gitlab.com/vepain), although I have a github account.
 
-🌐 website: [vepain.gitlab.io](https://vepain.gitlab.io/)
+🌐 website: <https://vepain.gitlab.io/>
 <!---
 vepain/vepain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
