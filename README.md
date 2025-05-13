@@ -1,7 +1,7 @@
 👋 Hello!
 
 I'm [Victor](https://vepain.gitlab.io/), 
-* 🖥️ I am a computational biologist, and will join the University of Milano-Bicocca as a postdoc researcher.
+* 🖥️ I am a computational biologist, working at the University of Milano-Bicocca as a postdoc researcher in the [BiasLab team](https://algolab.eu/).
 * 🧬 I like [graph algorithms](https://hal.inria.fr/hal-03815190), [integer linear programming, genome assembly](https://almob.biomedcentral.com/articles/10.1186/s13015-023-00243-1) and FOSS! 
 * 🎹 [I also play the piano](https://www.youtube.com/@professeurchep) (improvising is really funny!) 
 
